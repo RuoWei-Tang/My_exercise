@@ -1,3 +1,4 @@
+#爬取拉勾网,南开大学暑期实训
 # coding=utf-8
 import requests
 import time
